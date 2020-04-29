@@ -1,0 +1,59 @@
+body {
+    color: #ffffff;
+    background-color: #000000;
+    font-size: 18px;
+    font-family: 'xxx', Arial, Halvetica, sans-serif;
+    text-align: center;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'hfont';
+	font-weight: 22px;
+	font-color: #111111;
+}
+li > .btn {
+	border: none;
+	margin-left: 5px;
+	background-color: gray;
+}
+.carousel-item > img {
+    max-height: 550px;
+}
+.carousel-caption {
+    color:white;
+    text-shadow: -1px 0 black, 0 1px black,
+      1px 0 black, 0 -1px black;
+}
+
+
+
+
+
+
+main {
+    background-color: beige;
+    height: auto;
+    overflow: hidden;
+}
+nav
+{
+    max-height: 55px;
+}
+.bgg {
+    background-color: rgb(240,255,240);
+}
+.anguimg {
+    height: 200px;
+    width: 200px;
+    border: solid white 1px;
+}
+
+#container {
+    position: relative;
+    margin: auto;
+    width: 1078px;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid #ffffff;
+}
+
+
